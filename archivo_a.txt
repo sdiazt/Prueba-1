@@ -1,2 +1,2 @@
-Experimento añadiendo una nueva línea al archivo_a.txt en la rama experimento
-Añado una segunda línea al archivo_a.txt en la rama master
+Resuelvo el conflicto en esta primera línea del archivo_a.txt
+También modifico la segunda línea del archivo_a.txt
