@@ -1,2 +1,3 @@
 Creating first line on archivo_b.txt
 Creating a second line on fichero_b.txt
+nueva linea
